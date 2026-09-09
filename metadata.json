@@ -1,0 +1,6 @@
+{
+  "name": "DentalDesk",
+  "description": "Single-dentist mobile and tablet practice management app for patient records, interactive dental charting, appointments, and clinic finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
